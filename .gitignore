@@ -1,0 +1,17 @@
+*__pycache__*
+*.pyc*
+*lightning_logs*
+*.neptune*
+.vscode
+wandb/
+outputs/
+*.bkp
+*debug*
+model_dit/models/walt/
+slurm_logs/
+*out
+tmp*
+backup_files
+dit_weights
+venv
+*.jpg
